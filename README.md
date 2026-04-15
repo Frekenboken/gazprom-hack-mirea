@@ -1,1 +1,2 @@
-pip install pandas matplotlib chardet jupyter
+1. pip install pandas matplotlib chardet jupyter
+2. jupyter-lab
